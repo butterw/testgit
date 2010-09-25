@@ -1,2 +1,3 @@
 FileA line0
 FileA line1
+FileA line2
