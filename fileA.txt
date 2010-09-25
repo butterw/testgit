@@ -4,3 +4,5 @@ FileA line2
 FileA line3
 FileA line4
 FileA line5
+FileA line6
+
